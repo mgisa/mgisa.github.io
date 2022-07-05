@@ -4,7 +4,7 @@ description: |
   The personal website of Murera Gisa.
 base_url: https://github.com/mgisa/myblog
 theme: theme.css
-#output_dir: "."     # root of master or main branch
+#output_dir: "."     # to keep all content within the root website directory alongside the source code.
 output_dir: "docs"  # docs directory of master or main branch
 navbar:
  search: true
