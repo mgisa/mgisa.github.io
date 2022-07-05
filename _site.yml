@@ -1,10 +1,11 @@
-name: "my_blog"
+name: "myblog"
 title: ""
 description: |
   The personal website of Murera Gisa.
-base_url: https://github.com/my_website
+base_url: https://github.com/mgisa/myblog
 theme: theme.css
-output_dir: "_site"
+#output_dir: "."     # root of master or main branch
+output_dir: "docs"  # docs directory of master or main branch
 navbar:
  search: true
  logo: 
