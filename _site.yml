@@ -5,7 +5,7 @@ description: |
 base_url: https://github.com/mgisa/myblog
 theme: theme.css
 #output_dir: "."     # to keep all content within the root website directory alongside the source code.
-output_dir: "docs"  # docs directory of master or main branch
+#output_dir: "docs"  # docs directory of master or main branch
 navbar:
  search: true
  logo: 
@@ -56,3 +56,4 @@ collections:
       share: [twitter, linkedin, facebook, google-plus, pinterest]
       subscribe: _Subscribe.html #Give right to subscribe to my blog
       citations: false #Remove article citation
+output_dir: "."     # to keep all content within the root website directory alongside the source code.
